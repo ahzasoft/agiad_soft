@@ -1,0 +1,16 @@
+{
+    "Crm": true,
+    "Essentials": true,
+    "Manufacturing": true,
+    "Partners": true,
+    "ProductCatalogue": true,
+    "Project": true,
+    "Repair": true,
+    "Superadmin": true,
+    "Woocommerce": true,
+    "Installment": true,
+    "Connector": true,
+    "Assets": true,
+    "Inventory": true,
+    "Restaurant": true
+}
